@@ -8,3 +8,4 @@ Easy:
 - 645: Set mismatch - https://leetcode.com/problems/set-mismatch
 - 796: Rotate string - https://leetcode.com/problems/rotate-string
 - 1089: Duplicate zeros - https://leetcode.com/problems/duplicate-zeros
+- 859: Buddy strings - https://leetcode.com/problems/buddy-strings
